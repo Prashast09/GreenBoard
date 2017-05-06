@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "956251011634",
+    "project_id": "greenboard-669e2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956251011634:android:8d9ebcce6e367b92",
+        "android_client_info": {
+          "package_name": "seventeencubes.com.greenboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYimEyUJkhNcp7rHJy7h4QJlzhM6xUA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956251011634:android:7da3f8b7f1516fa0",
+        "android_client_info": {
+          "package_name": "bean.red.greenboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYimEyUJkhNcp7rHJy7h4QJlzhM6xUA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#A5D6A7</color>
+    <color name="accent">#009688</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="background">#fff2f2f2</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffff</color>
+    <color name="accentDisabled">#30009688</color>
+    <color name="events">#469bf1</color>
+    <color name="favours">#ee9d32</color>
+    <color name="sports">#6ada91</color>
+    <color name="offers">#ee6e83</color>
+    <color name="academics">#f8e00c</color>
+    <color name="general">#97cc26</color>
+    <color name="desk">#795548</color>
+    <color name="greenWhatsapp">#2b795e</color>
+</resources>

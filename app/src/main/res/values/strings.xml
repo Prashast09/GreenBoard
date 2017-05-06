@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GreenBoard</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1475770262713625</string>
+    <string name="fb_login_protocol_scheme">fb1475770262713625</string>
+</resources>
